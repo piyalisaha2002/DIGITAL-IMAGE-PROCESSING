@@ -24,7 +24,7 @@ their yellow and white color space. Then we apply Canny Edge detection for edge 
 already explained in short above. We're interested in the area facing the camera, where the lane lines are found. So, we'll 
 apply region of interest to cut out everything which we not required else
 
-**WORKINGS :**
+**WORKING :**
 
 Image Processing
 
