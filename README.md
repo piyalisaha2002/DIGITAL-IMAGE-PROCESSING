@@ -53,7 +53,7 @@ The project follows a pipeline structure for implementation:
 1. Clone the repository:
 
 ```
-git clone [<repository_url>](https://github.com/piyalisaha2002/Lane-detection-using-digital-image-processing)
+git clone https://github.com/piyalisaha2002/Lane-detection-using-digital-image-processing
 ```
 
 2. Install dependencies:
